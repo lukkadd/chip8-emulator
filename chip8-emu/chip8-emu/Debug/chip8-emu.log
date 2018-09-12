@@ -1,0 +1,8 @@
+﻿  main.cpp
+  chip8.cpp
+e:\documents\projects\chip8-emulator\chip8-emu\chip8-emu\chip8.cpp(92): warning C4806: '&': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+e:\documents\projects\chip8-emulator\chip8-emu\chip8-emu\chip8.cpp(92): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+e:\documents\projects\chip8-emulator\chip8-emu\chip8-emu\chip8.cpp(103): warning C4806: '&': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+e:\documents\projects\chip8-emulator\chip8-emu\chip8-emu\chip8.cpp(103): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  Generating Code...
+  chip8-emu.vcxproj -> E:\Documents\Projects\chip8-emulator\chip8-emu\Debug\chip8-emu.exe
