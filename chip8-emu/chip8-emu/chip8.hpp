@@ -56,7 +56,7 @@ public:
 	bool drawFlag;
 	unsigned char display[DISPLAY_SIZE];
 	void init();
-	void loadProgram(char *path);
+	void loadProgram(const char *path);
 	void emulateCycle();
 	void setKeys();
 
